@@ -1,4 +1,4 @@
-** Gaussian Mixture Model (GMM) Using EM Algorithm**
+****Gaussian Mixture Model (GMM) Using EM Algorithm****
 
 This project implements a Gaussian Mixture Model (GMM) from scratch using the Expectation-Maximization (EM) algorithm in R. The model generates synthetic data consisting of two Gaussian clusters and performs probabilistic clustering without using external machine learning libraries.
 
@@ -20,8 +20,8 @@ The implementation includes dataset generation, parameter initialization, Gaussi
 * Matrix Operations
 * Statistical Modeling
 * Data Visualization
-
-** Output**
+  
+****Output****
 
 * Synthetic Dataset (CSV)
 * Cluster Assignment Results
