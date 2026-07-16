@@ -1,4 +1,4 @@
-<img width="1000" height="800" alt="Dataset" src="https://github.com/user-attachments/assets/193d7e9d-9b8f-49e7-9fe9-7048e46a31cd" /># Gaussian Mixture Model (GMM) Using Expectation-Maximization (EM) Algorithm
+# Gaussian Mixture Model (GMM) Using Expectation-Maximization (EM) Algorithm
 
 ## 📌 Project Overview
 
